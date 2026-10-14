@@ -1,6 +1,6 @@
-# Linux Commands (Ubuntu)
+# Linux Commands 
 
-A step-by-step, command-based guide to Linux on **Ubuntu**.
+A step-by-step, command-based guide to Linux 
 Every topic has its own file. Every command is shown with what it does,  with a short example.
 
 Read it once from start to end and you will know how to use Linux: from installing Ubuntu, to files, users, permissions, software, services, web servers and shell scripting.
